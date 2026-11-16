@@ -853,7 +853,7 @@ strip-ansi                                                                    6.
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.4             deb                         
 supports-color                                                                10.2.2                                npm                         
 systemd-standalone-sysusers                                                   255.4-1ubuntu8.18                     deb                         
-systeminformation                                                             5.33.20                               npm                         
+systeminformation                                                             5.33.23                               npm                         
 sysvinit-utils                                                                3.08-6ubuntu3                         deb                         
 tags.cncf.io/container-device-interface                                       v1.1.1                                go-module  (+7 duplicates)  
 tags.cncf.io/container-device-interface/specs-go                              v1.1.1                                go-module  (+6 duplicates)  
